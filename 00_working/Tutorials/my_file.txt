@@ -1,0 +1,1 @@
+This is a text file example. In this file you can read text in the string format.

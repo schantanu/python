@@ -1,4 +1,4 @@
-# Flask SQLAlchemy
+# Object Relational Mappers
 
 Flask-based ORM applications that demonstrates how to manage an app databases using SQLAlchemy ORM. It supports operations such as creating a database, adding initial data, and querying stored records using Flask CLI commands.
 
